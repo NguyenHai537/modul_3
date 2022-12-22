@@ -1,0 +1,28 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    background-color: #3b5998;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+aside {
+    position: fixed;
+    top: 60px;
+    left: 0;
+    bottom: 0;
+    width: 200px;
+    background-color: #f6f6f6;
+    padding: 20px;
+}
+
+main {
+    margin-left: 220px;
+    padding: 20px;
+}
