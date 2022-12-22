@@ -1,0 +1,46 @@
+body {
+    font-family: Verdana,sans-serif;
+    font-size: 0.9em;
+}
+
+h1, footer {
+    padding: 10px;
+    color: white;
+    background-color: black;
+}
+
+section {
+    margin: 5px;
+    padding: 10px;
+    background-color: lightgrey;
+    float: left;
+}
+
+article{
+    margin: 5px;
+    padding: 10px;
+    background-color: white;
+    float: left;
+}
+footer{
+    clear: both;
+}
+
+nav ul {
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 5px;
+}
+
+#H2,#H3{
+    width: 50%;
+    float: left;
+    border: 2px solid blue;
+}
+image{
+    float: left;
+    margin: 10px;
+}
